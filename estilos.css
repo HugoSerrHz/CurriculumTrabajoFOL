@@ -1,3 +1,43 @@
-*{
-    font-family: Dubai;
+body {
+    font-family: Arial, sans-serif;
+}
+#cabecero {
+    width: 100%;
+    margin: 0px auto;
+    border: 1px solid black;
+    background-color: rgb(21, 195, 238);
+    display: flex;
+   justify-content: center;
+   
+}
+#cabecero nav ul {
+    background-color: rgb(21, 195, 238);
+
+}
+
+
+#cabecero nav ul li{
+    float: left;
+    margin: 5px;
+    list-style: none;
+    line-height: 30px;
+
+    
+}
+section {
+
+
+}
+#cuerpo{
+    width: 100%;
+
+
+}
+/*#imagenfondo{
+    background-image: url('https://www.technotification.com/wp-content/uploads/2018/04/learn-programming-for-beginners-1140x680.jpg');
+    background-size: cover;
+    width: 100%;
+}*/
+.fijar {
+    clear: both;
 }

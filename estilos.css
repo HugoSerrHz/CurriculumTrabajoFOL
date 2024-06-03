@@ -1,6 +1,7 @@
 body {
     font-family: Arial, sans-serif;
    /* background-color:deepskyblue; */
+    background-color: lightgoldenrodyellow;
 }
 
 
@@ -42,6 +43,7 @@ header{
     clear: both;
     background-color: deepskyblue;
     text-align: center;
+    font-family: "Arial Black";
 }
 section {
 
@@ -69,4 +71,9 @@ section {
 footer{
     text-align: center;
     clear: both;
+}
+
+.subrayar{
+    text-decoration: underline;
+    font-family: "Times New Roman";
 }
